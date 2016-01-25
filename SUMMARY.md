@@ -3,7 +3,7 @@
 	* [许可证](http://www.apache.org/licenses/)
 	* [下载](http://maven.apache.org/download.html)
 	* [安装](main/Install.md)
-	* [配置](main/configure.md)
+	* [配置](main/Configure.md)
 	* [运行](main/Run.md)
 	* [IDE集成](main/IDE integration.md)
 * ABOUT MAVEN
